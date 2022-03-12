@@ -1,0 +1,2 @@
+import CreateMLUI
+MLImageClassifierBuilder().showInLiveView()
